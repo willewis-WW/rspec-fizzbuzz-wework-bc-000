@@ -10,6 +10,6 @@ def fizzbuzz(number)
     'Buzz'
   else
     #puts 'no fizzbuzz today'
-    return nil
+    nil
   end
 end
